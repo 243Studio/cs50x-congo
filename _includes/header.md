@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS50x CONGO]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+243 Studio University \\
+2024-2025
